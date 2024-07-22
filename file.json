@@ -1,0 +1,8 @@
+{
+    "inpfile": "../data/cylinder.inp",
+    "mesfile": "../data/cylinder.mes",
+    "bdcfile": "../data/cylinder.bc",
+    "stafile": "../data/start.file",
+    "resfile": "res/cylinder.res",
+    "endfile": "res/cylinder.end"
+}
